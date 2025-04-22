@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+
+streamlit # pip install streamlit
+
+
+xgboost
+sklearn
